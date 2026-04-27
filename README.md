@@ -18,7 +18,7 @@ Developed an automated monitoring solution for energy infrastructure to visualiz
 * **Operational Metrics:** Calculated Average Pressure and Flow Rates using custom DAX measures.
 
 ## 📊 Preview
-![Dashboard Preview](reports/DashboardPreview.png)
+![Dashboard Preview](reports/Dashboardpreview.png)
 
 ## 📂 How to Use
 1. Download the `Pipeline_Data.csv` to see the raw dataset.
